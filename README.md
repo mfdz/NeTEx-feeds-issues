@@ -1,4 +1,4 @@
-# NeTEx-issues
+# NeTEx-feeds-issues
 Documenting and tracking current issues of [NeTEx](https://en.wikipedia.org/wiki/NeTEx) transit data feeds.
 
 ## The Idea
